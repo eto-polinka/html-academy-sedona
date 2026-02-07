@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [lofi _](https://up.htmlacademy.ru/htmlcss-individual/2/user/1914907).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский] (https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
