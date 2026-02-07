@@ -2,6 +2,7 @@
 
 * Студент: [lofi _](https://up.htmlacademy.ru/htmlcss-individual/2/user/1914907).
 * Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
+* Сайт: [Мой проект Седона](https://eto-polinka.github.io/html-academy-sedona/)
 
 ---
 
